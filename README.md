@@ -28,3 +28,4 @@ There are a few rules to follow when using Roman numerals:
 ## Challenge
 
 Create a website using React that allows a user to either enter an arabic or roman number and converts it to the other format. The website should offer a good UX including some nice convenience features. Useful test cases should make sure everything works and will work in the future.
+The input range should be limited from 1-9999.
